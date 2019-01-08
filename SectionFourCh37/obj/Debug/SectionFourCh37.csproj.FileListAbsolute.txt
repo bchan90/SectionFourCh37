@@ -1,0 +1,7 @@
+C:\Users\bchan\OneDrive\Programming\C#\Visual Studio Projects\SectionFourCh37\SectionFourCh37\bin\Debug\SectionFourCh37.exe.config
+C:\Users\bchan\OneDrive\Programming\C#\Visual Studio Projects\SectionFourCh37\SectionFourCh37\bin\Debug\SectionFourCh37.exe
+C:\Users\bchan\OneDrive\Programming\C#\Visual Studio Projects\SectionFourCh37\SectionFourCh37\bin\Debug\SectionFourCh37.pdb
+C:\Users\bchan\OneDrive\Programming\C#\Visual Studio Projects\SectionFourCh37\SectionFourCh37\obj\Debug\SectionFourCh37.csprojAssemblyReference.cache
+C:\Users\bchan\OneDrive\Programming\C#\Visual Studio Projects\SectionFourCh37\SectionFourCh37\obj\Debug\SectionFourCh37.csproj.CoreCompileInputs.cache
+C:\Users\bchan\OneDrive\Programming\C#\Visual Studio Projects\SectionFourCh37\SectionFourCh37\obj\Debug\SectionFourCh37.exe
+C:\Users\bchan\OneDrive\Programming\C#\Visual Studio Projects\SectionFourCh37\SectionFourCh37\obj\Debug\SectionFourCh37.pdb
